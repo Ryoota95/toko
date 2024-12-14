@@ -7,6 +7,5 @@
 
      	header("refresh:0;url=http://localhost/toko/barang.php");
      }
-
  ?>
  
